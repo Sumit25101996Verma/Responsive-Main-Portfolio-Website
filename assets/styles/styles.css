@@ -553,7 +553,7 @@ section {
 }
 .contact-content-con .left-contact .contact-info .contact-item .icon {
   display: grid;
-  grid-template-columns: 40px 1fr;
+  grid-template-columns: 30px 1fr;
 }
 .contact-content-con .left-contact .contact-info .contact-item .icon i {
   display: flex;
@@ -615,10 +615,13 @@ section {
 .contact-content-con .right-contact .i-c-2 :last-child {
   margin-left: 1.5rem;
 }
+
 .contact-content-con .right-contact .submit-btn {
   display: flex;
   justify-content: flex-start;
 }
+
+
 
 /*Independed components*/
 .btn-con {
