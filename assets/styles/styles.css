@@ -313,10 +313,10 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 65%;
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .ur {
-  width: 70%;
+  width: 55%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .wf {
   width: 85%;
@@ -325,7 +325,7 @@ section {
   width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .ut {
-  width: 70%;
+  width: 80%;
 }
 
 .stat-title {
